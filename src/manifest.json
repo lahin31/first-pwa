@@ -1,0 +1,56 @@
+{
+    "short_name": "firstPWA",
+    "name": "Angular PWA",
+    "start_url": "/",
+    "theme_color": "#f48c5b",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/assets/icons/assignment.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/autorenew.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/camera.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/reader.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/buzzfid.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/watsapp.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/minutes.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/minTiming.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/leaf.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

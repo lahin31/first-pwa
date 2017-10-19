@@ -1,0 +1,13 @@
+[
+    { "id": 1, "name": "Forhad", "imgUrl": "assets/images/forhad-01.jpg", "details": "Good Boy", "favouriteLanguage": "C, PHP, Java" },
+    { "id": 2, "name": "Alham", "imgUrl": "assets/images/alham.jpg", "details": "Good Boy", "favouriteLanguage": "C, PHP" },
+    { "id": 3, "name": "Motiur Rahman", "imgUrl": "assets/images/moti.jpg", "details": "Good Boy", "favouriteLanguage": "C" },
+    { "id": 4, "name": "Ranak", "imgUrl": "assets/images/ranak-01.jpg", "details": "Good Boy", "favouriteLanguage": "C, PHP" },
+    { "id": 5, "name": "Sabbir Ahmed", "imgUrl": "assets/images/sabbir-01.jpg", "details": "Good Boy", "favouriteLanguage": "C, PHP" },
+    { "id": 6, "name": "Tawfiquzzaman Prim Opu", "imgUrl": "assets/images/opu.jpg", "details": "Good Boy", "favouriteLanguage": "C++" },
+    { "id": 8, "name": "Mahbub", "imgUrl": "assets/images/mahbub.jpg", "details": "Good Boy", "favouriteLanguage": "C, PHP, Python" },
+    { "id": 9, "name": "Farhan Habib", "imgUrl": "assets/images/farhan.jpg", "details": "Good Boy", "favouriteLanguage": "C, PHP" },
+    { "id": 11, "name": "Debasis Bose", "imgUrl": "assets/images/debu.jpg", "details": "Good Boy", "favouriteLanguage": "C, PHP" },
+    { "id": 13, "name": "Abu Sayed", "imgUrl": "assets/images/abu-sayed.jpg", "details": "Good Boy", "favouriteLanguage": "C, PHP" },
+    { "id": 14, "name": "Ashraf Shuvo", "imgUrl": "assets/images/ashraf-shuvo.jpg", "details": "Good Boy", "favouriteLanguage": "C, PHP" }
+]
